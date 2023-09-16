@@ -16,9 +16,10 @@ A unblocked game website that lets you play tons of games and has multiple proxi
 
 # What are your official links?
 
-We currently have two official links:  
+We currently have three official links:  
 https://dbpsmath.github.io/index.html  
 https://dbpsmath.diamondbroplayzfr.repl.co/  
+https://trollemoji.github.io  
 
 # How do I deploy?
 Press any one of our deployment buttons here! (Github is the easiest)
