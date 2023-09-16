@@ -17,7 +17,7 @@ Because of how easy this is to spin up and/or use, how many links I'm setting up
 
 # FAQ
 ## How did you make this
-I used [BlazerHM's](https://www.github.com/beforeblazergithub/) template for making a unblocked games website, with the 3kh0 [3hk0-assets](https://github.com/3kh0/3kh0-Assets) repository.
+I used [BlazerHM's](https://www.github.com/beforeblazergithub/) [template](https://www.youtube.com/watch?v=5JbbxNPbqBQ) for making a unblocked games website, with the 3kh0 [3hk0-assets](https://github.com/3kh0/3kh0-Assets) repository.
 ## Is there a tab cloaker?
 Currently there is not a custom tab cloaker, however the games and proxy pages are automatically cloaked as Google, I'm soon making this so that all pages are cloaked as google
 ## How can I know that someone is you?
