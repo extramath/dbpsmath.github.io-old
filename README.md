@@ -1,6 +1,7 @@
-# DBPSMath
+<p align="center"><img src="https://github.com/dbpsmath/dbpsmath.github.io/blob/main/87837029%20(2).png?raw=true" height="250"></p>
 
-- [DBPSMath](#dbpsmath)
+<h1 align="center">DBP's Math</h1>
+
 - [Why should I use this?](#why-should-i-use-this)
 - [FAQ](#faq)
   - [How did you make this](#how-did-you-make-this)
