@@ -1,21 +1,31 @@
-# BLAZERGAMES
+# DBPSMath
 
-*Subscribe to Blazer!!!*
-https://youtube.com/c/blazerhm
+- [DBPSMath](#dbpsmath)
+- [Why should I use this?](#why-should-i-use-this)
+- [FAQ](#faq)
+  - [How did you make this](#how-did-you-make-this)
+  - [Is there a tab cloaker?](#is-there-a-tab-cloaker)
+  - [How can I know that someone is you?](#how-can-i-know-that-someone-is-you)
+  - [Are there bookmarklets?](#are-there-bookmarklets)
+- [Credit](#credit)
 
-## Deployment
-Here are some other deployment options to deploy the site on your own.
+A unblocked game website that lets you play tons of games and has multiple proxies and is open source.
 
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/beforeblazergithub/BlazerGames)
-<br>
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/beforeblazergithub/BlazerGames)
-<br>
-[![Deploy to IBM Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/beforeblazergithub/BlazerGames)
-<br>
-[![Deploy to Amplify Console](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/beforeblazergithub/BlazerGames)
-<br>
-[![Run on Google Cloud](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/beforeblazergithub/BlazerGames)
-<br>
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/beforeblazergithub/BlazerGames)
-<br>
-[![Deploy To Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/beforeblazergithub/BlazerGames)
+# Why should I use this?
+Because of how easy this is to spin up and/or use, how many links I'm setting up currently, and how it is going to be updated frequently, this will be a great games website (and proxy website lol) 
+
+# FAQ
+## How did you make this
+I used [BlazerHM's](https://www.github.com/beforeblazergithub/) template for making a unblocked games website, with the 3kh0 [3hk0-assets](https://github.com/3kh0/3kh0-Assets) repository.
+## Is there a tab cloaker?
+Currently there is not a custom tab cloaker, however the games and proxy pages are automatically cloaked as Google, I'm soon making this so that all pages are cloaked as google
+## How can I know that someone is you?
+My discord ID is currently 810226107248803881.
+## Are there bookmarklets?
+I'm going to add those soon.
+
+# Credit
+This is based on BlazerGames, a FOSS project by [BlazerHM](https://www.youtube.com/@BlazerHM).
+The proxies are from BlazerHM's subscriber channels on discord and some are my personal proxies that I host.
+The games are from [3hk0](https://github.com/3kh0)'s game assets repository.
+I, DiamondBroPlayz am currently the only person working on this. If this changes then I will update this README.
