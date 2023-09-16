@@ -16,7 +16,6 @@ A unblocked game website that lets you play tons of games and has multiple proxi
 # How do I deploy?
 Press any one of our deployment buttons here!
 
-[<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" width="25"/>](https://github.com/dbpsmath/dbpsmath.github.io/fork)
 [<img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" width="25"/>](https://github.com/dbpsmath/dbpsmath.github.io/fork)
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/dbpsmath/dbpsmath.github.io"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://replit.com/github/dbpsmath/dbpsmath.github.io"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
