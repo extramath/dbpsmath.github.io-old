@@ -2,6 +2,7 @@
 
 <h1 align="center">DBP's Math</h1>
 
+- [What are your official links?](#what-are-your-official-links)
 - [How do I deploy?](#how-do-i-deploy)
 - [Why should I use this?](#why-should-i-use-this)
 - [FAQ](#faq)
@@ -13,8 +14,14 @@
 
 A unblocked game website that lets you play tons of games and has multiple proxies and is open source.
 
+# What are your official links?
+
+We currently have two official links:
+https://dbpsmath.github.io/index.html
+https://dbpsmath.diamondbroplayzfr.repl.co/
+
 # How do I deploy?
-Press any one of our deployment buttons here!
+Press any one of our deployment buttons here! (Github is the easiest)
 
 [<img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" width="25"/>](https://github.com/dbpsmath/dbpsmath.github.io/fork)
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/dbpsmath/dbpsmath.github.io"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
