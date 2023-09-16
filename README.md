@@ -2,6 +2,7 @@
 
 <h1 align="center">DBP's Math</h1>
 
+- [How do I deploy?](#how-do-i-deploy)
 - [Why should I use this?](#why-should-i-use-this)
 - [FAQ](#faq)
   - [How did you make this](#how-did-you-make-this)
@@ -11,6 +12,19 @@
 - [Credit](#credit)
 
 A unblocked game website that lets you play tons of games and has multiple proxies and is open source.
+
+# How do I deploy?
+Press any one of our deployment buttons here!
+
+[<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" width="25"/>](https://github.com/dbpsmath/dbpsmath.github.io/fork)
+[<img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" width="25"/>](https://github.com/dbpsmath/dbpsmath.github.io/fork)
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/dbpsmath/dbpsmath.github.io"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
+<a target="_blank" href="https://replit.com/github/dbpsmath/dbpsmath.github.io"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
+<a target="_blank" href="https://glitch.com/edit/#!/import/github/dbpsmath/dbpsmath.github.io"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
+<a target="_blank" href="https://railway.app/new/template?template=https://github.com/dbpsmath/dbpsmath.github.io"><img alt="Deploy on Railway" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg"></a>
+<a target="_blank" href="https://vercel.com/new/clone?repository-url=https://github.com/dbpsmath/dbpsmath.github.io"><img alt="Deploy to Vercel" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg"></a>
+<a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/dbpsmath.github.io"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/dbpsmath/dbpsmath.github.io&branch=main&name=deploy-buttons"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
 # Why should I use this?
 Because of how easy this is to spin up and/or use, how many links I'm setting up currently, and how it is going to be updated frequently, this will be a great games website (and proxy website lol) 
