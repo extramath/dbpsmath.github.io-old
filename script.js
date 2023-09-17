@@ -29,3 +29,9 @@ document.addEventListener('keyup', (event) => {
     setNationalGeographicFavicon();
   }
 });
+
+try {
+  console.log("Website started")
+}
+catch(err) {
+  console.log("Website started with an error.")
