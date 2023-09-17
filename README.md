@@ -2,6 +2,8 @@
 
 <h1 align="center">DBP's Math</h1>
 
+<p align="center"><img src="https://socialify.git.ci/dbpsmath/dbpsmath.github.io/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="dbpsmath.github.io" width="640" height="320" /></p>
+
 - [What are your official links?](#what-are-your-official-links)
 - [How do I deploy?](#how-do-i-deploy)
 - [Why should I use this?](#why-should-i-use-this)
