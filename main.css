@@ -5,6 +5,9 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+p.white {
+    color: white;
+}
 nav {
     position: fixed;
     top: 0;

