@@ -46,7 +46,7 @@ Currently there is not a custom tab cloaker, however the games and proxy pages a
 ## How can I know that someone is you?
 My discord ID is currently 810226107248803881.
 ## Are there bookmarklets?
-I'm going to add those soon.
+Yes, there are now!
 
 # Credit
 This is based on BlazerGames, a FOSS project by [BlazerHM](https://www.youtube.com/@BlazerHM).
