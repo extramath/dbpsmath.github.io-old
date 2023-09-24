@@ -42,7 +42,7 @@ Because of how easy this is to spin up and/or use, how many links I'm setting up
 ## How did you make this
 I used [BlazerHM's](https://www.github.com/beforeblazergithub/) [template](https://www.youtube.com/watch?v=5JbbxNPbqBQ) for making a unblocked games website, with the 3kh0 [3hk0-assets](https://github.com/3kh0/3kh0-Assets) repository.
 ## Is there a tab cloaker?
-Currently there is not a custom tab cloaker, however the games and proxy pages are automatically cloaked as Google, I'm soon making this so that all pages are cloaked as google
+Yes! It is automatically cloaked as Google however you can go to the Settings page to change it!
 ## How can I know that someone is you?
 My discord ID is currently 810226107248803881.
 ## Are there bookmarklets?
