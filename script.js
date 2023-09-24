@@ -35,3 +35,41 @@ try {
 }
 catch(err) {
   console.log("Website started with an error.")
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  const tabForm = document.getElementById('tabForm');
+  const faviconInput = document.getElementById('favicon');
+  const titleInput = document.getElementById('title');
+
+  tabForm.addEventListener('submit', function(event) {
+      event.preventDefault();
+
+      const faviconUrl = faviconInput.value;
+      const pageTitle = titleInput.value;
+
+      document.querySelector('link[rel="icon"]').href = faviconUrl;
+      document.title = pageTitle;
+
+      localStorage.setItem('customFavicon', faviconUrl);
+      localStorage.setItem('customTitle', pageTitle);
+  });
+
+  const storedFavicon = localStorage.getItem('customFavicon');
+  const storedTitle = localStorage.getItem('customTitle');
+
+  if (storedFavicon && storedTitle) {
+      document.querySelector('link[rel="icon"]').href = storedFavicon;
+      document.title = storedTitle;
+  }
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+  const storedFavicon = localStorage.getItem('customFavicon');
+  const storedTitle = localStorage.getItem('customTitle');
+
+  if (storedFavicon && storedTitle) {
+      document.querySelector('link[rel="icon"]').href = storedFavicon;
+      document.title = storedTitle;
+  }
+});
