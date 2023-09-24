@@ -5,7 +5,7 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-p.white {
+.white {
     color: white;
 }
 nav {
@@ -210,3 +210,40 @@ nav ul a:hover {
 h2 {
   color: white;
 }
+
+/* Style for the form container */
+.rounded-form {
+    background-color: #000; /* Black background */
+    border-radius: 10px; /* Makes it rounded */
+    padding: 20px; /* Add some padding for spacing */
+    max-width: 400px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the form horizontally */
+  }
+  
+  /* Style for labels */
+  label {
+    color: #fff; /* White color for labels */
+    display: block; /* Display labels in block style */
+    margin-bottom: 5px; /* Add some spacing between labels and inputs */
+  }
+  
+  /* Style for input fields */
+  input[type="title"],
+  input[type="favicon"] {
+    width: 100%; /* Take up the full width of the container */
+    padding: 10px; /* Add padding for spacing inside the inputs */
+    border: none; /* Remove default borders */
+    border-radius: 5px; /* Make input fields slightly rounded */
+    margin-bottom: 10px; /* Add some spacing between inputs */
+  }
+  
+  /* Style for the submit button */
+  button[type="submit"] {
+    background-color: #fff; /* White background for the button */
+    color: #000; /* Black text color for the button */
+    padding: 10px 20px; /* Add padding to the button */
+    border: none; /* Remove default button borders */
+    border-radius: 5px; /* Make the button slightly rounded */
+    cursor: pointer; /* Change cursor on hover */
+  }
+  
