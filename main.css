@@ -1,9 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap');
 
+
 body {
-    background-color: #1b1b1b;
     font-family: 'Montserrat', sans-serif;
+    background-color: #2e2e2e;
+    color: #fff;
+    overflow-x: hidden;
+    background-image: url('./assets/checkerboardpng7.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
+
 
 .white {
     color: white;
@@ -247,3 +255,199 @@ h2 {
     cursor: pointer; /* Change cursor on hover */
   }
   
+footer {
+    position: absolute;
+    width: 100%;
+    height: min-content;
+    z-index: 5;
+    margin: auto;
+    overflow: hidden;
+    display: block;
+}
+
+footer hr {
+    width: 60vw;
+}
+
+footer.mobile {
+    display: none;
+}
+
+footer main {
+    display: flex; 
+    flex-direction: column; /* Changes the layout to vertical */
+    align-items: center;
+    height: 100%; 
+    width: 100%;
+    z-index: 99;
+    padding-bottom: 0;
+}
+
+footer main h1 {
+    font-size: 5vw;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+footer main h1 span {
+    color:#2c7ffc;
+}
+
+footer main h2 {
+    font-size: 1.5vw;
+    font-weight: 600;
+}
+
+footer main h2 span.one {
+    color:gold;
+    font-weight: 800;
+    font-size: 1.8vw;
+}
+
+footer main h2 span.two {
+    color:rgb(255, 55, 55);
+    font-weight: 700;
+}
+
+.four {
+    margin-top: .3vw;
+}
+
+footer main h2 span.three {
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.8vw;
+    background-color: #4a59ff;
+    padding: 0 .5vw;
+    border-radius: .5vw;
+}
+
+footer main h2 span.three i {
+    font-size: 1.5vw;
+    margin-right: .2vw;
+}
+
+footer main p {
+    text-align: center;
+    margin-top: 3vw;
+    font-size: 1vw;
+    font-weight: 600;
+    z-index: 999;
+    color:#fff;
+    padding-bottom: .2vw;
+}
+
+#footer iframe {
+    margin-top: 1vw;
+    border-radius: .5vw;
+    position: relative;
+    user-select: none;
+}
+
+.content-wrapper {
+    display: flex;
+    width: 50%; 
+    justify-content: space-between;
+    margin-top: .5vw;
+}
+
+.left {
+    flex: 1; 
+}
+
+.right {
+    flex: 1;
+    display: flex;
+    position: relative;
+    right: -13%;
+}
+
+.right div {
+    width: 10vw;
+    text-align: center;
+}
+
+.right div a {
+    color: #fff;
+    font-size: 1.1vw;
+}
+
+.right div a:hover {
+    text-decoration: underline;
+}
+
+.right div h2 {
+    font-weight: 800;
+    font-size: 1.8vw;
+}
+
+footer main h1 {
+    font-size: 5vw;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+footer main h1 span {
+    color:#2c7ffc;
+}
+
+footer main h2 {
+    font-size: 1.5vw;
+    font-weight: 600;
+}
+
+footer main h2 span.one {
+    color:gold;
+    font-weight: 800;
+    font-size: 1.8vw;
+}
+
+footer main h2 span.two {
+    color:rgb(255, 55, 55);
+    font-weight: 700;
+}
+
+.four {
+    margin-top: .3vw;
+}
+
+footer main h2 span.three {
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.8vw;
+    background-color: #4a59ff;
+    padding: 0 .5vw;
+    border-radius: .5vw;
+}
+
+footer main h2 span.three i {
+    font-size: 1.5vw;
+    margin-right: .2vw;
+}
+
+footer main p {
+    text-align: center;
+    margin-top: 3vw;
+    font-size: 1vw;
+    font-weight: 600;
+    z-index: 999;
+    color:#fff;
+    padding-bottom: .2vw;
+}
+
+a {
+    text-decoration: none;
+}
+
+.privacy {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 6vw;
+    padding-bottom: 1.5vw;
+}
+
+a.privacy {
+    color:aquamarine;
+}
