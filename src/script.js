@@ -83,3 +83,12 @@ document.addEventListener("DOMContentLoaded", function() {
   var randomMOTD = motds[Math.floor(Math.random() * motds.length)];
   quoteText.innerHTML = randomMOTD
 });
+
+function normalFavicon() {
+  const storedFavicon = localStorage.getItem('customFavicon');
+  const storedTitle = localStorage.getItem('customTitle');
+
+  localStorage.setItem('customFavicon', "https://raw.githubusercontent.com/dbpsmath/cdn/main/favicon.png");
+  localStorage.setItem('customTitle', "DBP's Math");
+  window.location.reload();
+}
