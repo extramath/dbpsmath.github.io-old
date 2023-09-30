@@ -1,0 +1,18 @@
+/* Gameframe's css, because I didn't want to put it in the main css file. */
+
+#gameframe {
+    flex-grow: 1;
+    border: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    z-index: 999999;
+    position: relative;
+    transform-origin: bottom left;
+    transform: scale3d(1, 1, 1);
+    transition: transform 0.3s ease-in;
+    will-change: transform;
+    height: 1px;
+    min-width: 100%;
+    width: 1px;
+}
