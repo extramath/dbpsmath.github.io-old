@@ -37,7 +37,7 @@ catch(err) { // catching error
   console.log("Website started with an error.") // saying if there was an error
 } // Debugging
 
-document.addEventListener("DOMContentLoaded", function() { // Tab cloaking
+document.addEventListener("DOMContentLoaded", function() { // Tab cloaking (taking input)
   const tabForm = document.getElementById('tabForm');
   const faviconInput = document.getElementById('favicon');
   const titleInput = document.getElementById('title');
@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function() { // Tab cloaking
   }
 });
 
-// Tab Cloaking
+// Tab cloaking if stored
 document.addEventListener("DOMContentLoaded", function() {
   const storedFavicon = localStorage.getItem('customFavicon');
   const storedTitle = localStorage.getItem('customTitle');
