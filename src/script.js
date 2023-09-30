@@ -90,4 +90,5 @@ function normalFavicon() {
 
   localStorage.setItem('customFavicon', "https://raw.githubusercontent.com/dbpsmath/cdn/main/favicon.png");
   localStorage.setItem('customTitle', "DBP's Math");
+  window.location.reload();
 }
