@@ -39,7 +39,7 @@ Because of how easy this is to spin up and/or use, how many links I'm setting up
 
 # FAQ
 ## How did you make this
-I used [BlazerHM's](https://www.github.com/beforeblazergithub/) [template](https://www.youtube.com/watch?v=5JbbxNPbqBQ) for making a unblocked games website, with the 3kh0 [3hk0-assets](https://github.com/3kh0/3kh0-Assets) repository.
+I used [BlazerHM's](https://www.github.com/beforeblazergithub/) [template](https://www.youtube.com/watch?v=5JbbxNPbqBQ) for making a unblocked games website, with the 3kh0 [3hk0-assets](https://github.com/3kh0/3kh0-Assets) repository. After that I added on a lot of stuff.
 ## Is there a tab cloaker?
 Yes! It is automatically cloaked as Google however you can go to the Settings page to change it!
 ## How can I know that someone is you?
