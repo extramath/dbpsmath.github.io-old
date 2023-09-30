@@ -92,3 +92,21 @@ function normalFavicon() {
   localStorage.setItem('customTitle', "DBP's Math");
   window.location.reload();
 }
+
+function googleFavicon() {
+  const storedFavicon = localStorage.getItem('customFavicon');
+  const storedTitle = localStorage.getItem('customTitle');
+
+  localStorage.setItem('customFavicon', "https://google.com/favicon.ico");
+  localStorage.setItem('customTitle', "Google");
+  window.location.reload();
+}
+
+function mathPlaygroundFavicon() {
+  const storedFavicon = localStorage.getItem('customFavicon');
+  const storedTitle = localStorage.getItem('customTitle');
+
+  localStorage.setItem('customFavicon', "https://www.mathplayground.com/favicon.ico");
+  localStorage.setItem('customTitle', "Math Games | Math Playground | Fun for Kids");
+  window.location.reload();
+}
