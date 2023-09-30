@@ -1,6 +1,6 @@
 const input = document.querySelector('input');
 const games = document.querySelectorAll('#games img');
-function setNationalGeographicFavicon() {
+function NatGeoCloaker() { // Used on line 26
   var linkElement = document.querySelector("link[rel*='icon']") || document.createElement('link');
   linkElement.type = 'image/x-icon';
   linkElement.rel = 'shortcut icon';
@@ -24,20 +24,20 @@ input.addEventListener('input', () => {
 });
 
 document.addEventListener('keyup', (event) => {
-  if (event.keyCode === 119) {
-    window.open("https://www.google.com");
-    setNationalGeographicFavicon();
+  if (event.keyCode === 119 ) { // F8 Detector 
+    window.open("https://www.google.com"); // open new google window
+    NatGeoCloaker(); // Using function on line 3
   }
 });
 
 try {
-  console.log("Website started")
+  console.log("Website started without an error.") // saying if the website started
 }
-catch(err) {
-  console.log("Website started with an error.")
-}
+catch(err) { // catching error
+  console.log("Website started with an error.") // saying if there was an error
+} // Debugging
 
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function() { // Tab cloaking
   const tabForm = document.getElementById('tabForm');
   const faviconInput = document.getElementById('favicon');
   const titleInput = document.getElementById('title');
@@ -64,6 +64,7 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 });
 
+// Tab Cloaking
 document.addEventListener("DOMContentLoaded", function() {
   const storedFavicon = localStorage.getItem('customFavicon');
   const storedTitle = localStorage.getItem('customTitle');
@@ -72,4 +73,13 @@ document.addEventListener("DOMContentLoaded", function() {
       document.querySelector('link[rel="icon"]').href = storedFavicon;
       document.title = storedTitle;
   }
+});
+
+// Add in MOTD
+document.addEventListener("DOMContentLoaded", function() {
+  const quoteText = document.querySelector(".MOTD")
+  var motds = Array('"Easy enough for a toddler, not easy for a sys admin"', '"Goodbye 3kh0 ):"', '"Schools are literally 1984" - Everyone', 'Imagine not blocking this', 'This is a random MOTD', '"Be responsible" -No one', '"I cant think of any more" -DBP', '"Please contribute MOTDs" - DBP');
+
+  var randomMOTD = motds[Math.floor(Math.random() * motds.length)];
+  quoteText.innerHTML = randomMOTD
 });
