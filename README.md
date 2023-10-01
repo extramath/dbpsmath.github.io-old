@@ -14,7 +14,7 @@
   - [Are there bookmarklets?](#are-there-bookmarklets)
 - [Credit](#credit)
 
-A unblocked game website that lets you play tons of games and has multiple proxies and is open source.
+An unblocked game website that lets you play many games, has multiple proxies, and is open source.
 
 # What are your official links?
 
@@ -39,16 +39,16 @@ Because of how easy this is to spin up and/or use, how many links I'm setting up
 
 # FAQ
 ## How did you make this
-I used [BlazerHM's](https://www.github.com/beforeblazergithub/) [template](https://www.youtube.com/watch?v=5JbbxNPbqBQ) for making a unblocked games website, with the 3kh0 [3hk0-assets](https://github.com/3kh0/3kh0-Assets) repository. After that I added on a lot of stuff.
+I used [BlazerHM's](https://www.github.com/beforeblazergithub/) [template](https://www.youtube.com/watch?v=5JbbxNPbqBQ) for making a unblocked games website, with the 3kh0 [3hk0-assets](https://github.com/3kh0/3kh0-Assets) repository. After that, I added on a lot of stuff.
 ## Is there a tab cloaker?
 Yes! It is automatically cloaked as Google however you can go to the Settings page to change it!
 ## How can I know that someone is you?
-My discord ID is currently 810226107248803881.
+My discord ID is currently `810226107248803881`.
 ## Are there bookmarklets?
 Yes, there are now!
 
 # Credit
 This is based on BlazerGames, a FOSS project by [BlazerHM](https://www.youtube.com/@BlazerHM).
-The proxies are from BlazerHM's subscriber channels on discord and some are my personal proxies that I host.
+The proxies are from BlazerHM's subscriber channels on Discord, and some are my personal proxies that I host.
 The games are from [3hk0](https://github.com/3kh0)'s game assets repository.
-I, DiamondBroPlayz am currently the only person working on this. If this changes then I will update this README.
+I, DiamondBroPlayz am currently the only person working on this. If this changes, then I will update this README.
